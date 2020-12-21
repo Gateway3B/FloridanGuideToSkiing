@@ -1,4 +1,4 @@
-# Floridian's Guide To Skiing
+# Floridian Guide To Skiing
 
 ## Gear
 * [Clothes](./Clothes.md)  
