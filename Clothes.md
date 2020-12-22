@@ -1,6 +1,6 @@
 # Clothes
+```Note: These clothing suggestions kept me warm at 17 degrees F and heavy winds. Adjust according to your temperatures and wind.```  
 There are three important things when wearing ski clothes. Warmth, wind breaking, and water resistance.  
-```Note: These clothing suggestions kept me warm at 17 degrees F and heavy winds. Adjust according to your temperatures and wind.```
 1. Warmth
     * It's going to be cold. Wear multiple layers.
 2. Wind Breaking
@@ -25,6 +25,11 @@ ___Foam Shin Pad(Optional) -> Long, Thick Socks___
 * Socks should be long enough to rise above your boots.
 * Shin pad will help protect your shin when you lean your body weight against the front of your boots.
 * Shin pads go under socks and long johns with the socks and long johns meeting above the boot line.
+* You can buy toe warmers which will stick to the bottom of your socks.
+
+| Shin Guard | Feet Setup |
+| --- | --- |
+| <img src="./Images/ShinGuard.png" alt="ShinGuard" width="600"/> | <img src="./Images/FeetSetup.png" alt="FeetSetup" width="600"/> |
 
 ## Hands
 ___Ski Jacket Thumb Hole -> Ski Glove Strap -> Ski Jacket Velcro Strap -> Warm Insert Glove(Optional) -> Ski Glove___  
@@ -34,6 +39,7 @@ ___Ski Jacket Thumb Hole -> Ski Glove Strap -> Ski Jacket Velcro Strap -> Warm I
 
 
 * This layering setup allows for a completely sealed wrist and allows for you to take off your glove without danger of losing it.
+* You can buy hand warmers which will go into a slot in your gloves. Do not place warmers against your skin.
 
 ## Head
 ___Earbud(Only One) -> Face Mask/Balaclava -> Tall Turtle Neck -> Helmet -> Goggles___
