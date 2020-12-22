@@ -8,5 +8,6 @@
 | Stats |
 | --- |
 | <img src="./Images/Stats.jpg" alt="Stats" width="200"/> |
+
 [`Top`](#about)  
 [`Return`](./README.md#floridian-guide-to-skiing)
