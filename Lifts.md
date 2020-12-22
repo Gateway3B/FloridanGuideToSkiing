@@ -1,7 +1,7 @@
 # Lifts
 ## Line Etiquette
 * Always alternate and allow those in the singles line into your group unless otherwise directed by a lift attendant.
-## Lift Procedure.
+## Lift Procedure
 * When the lift for the group in front of you has swung out, move forward until your boots are on the stop sign on the ground. Look behind you and sit as the lift reaches your legs. Make sure to ask if everyone is ready before lowering the bar.
 ## Disembarking
 * Make sure to coordinate who is going in which direction when leaving the lift. Raise the bar at least one support column before the end. Raise your ski tips, and stand up once your skis are solidly on the ground. The lift will push you forward.

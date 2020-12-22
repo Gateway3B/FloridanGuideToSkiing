@@ -4,6 +4,9 @@
 * I regularly ski black diamonds and have occasionally skied double black diamond bowls.
 * I have skied at Heavenly, Whistler, Breckenridge, Vail, Park City, Keystone, and Beaver Creek.
 * I have almost 2 million verts(vertical feet) since 2012.
-![Stats](./Images/Stats.jpg)
+
+| Stats |
+| --- |
+| <img src="./Images/Stats.jpg" alt="Stats" width="200"/> |
 [`Top`](#about)  
 [`Return`](./README.md#floridian-guide-to-skiing)

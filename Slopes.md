@@ -13,8 +13,7 @@ These are intermediate slopes with inclines between `14 and 22` degrees.
 
 These are advanced slopes with inclines over `22` degrees.
 ## Double Black Diamond
-<img src="./Images/BlackDiamond.svg">
-<img src="./Images/BlackDiamond.svg">
+<img src="./Images/BlackDiamond.svg"><img src="./Images/BlackDiamond.svg">
 
 
 These are very advanced slopes with inclines over `26` degrees.
