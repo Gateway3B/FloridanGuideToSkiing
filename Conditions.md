@@ -15,3 +15,6 @@
 * When there is heavy snowing, causing snow to pile up.
 * This snow makes it had to turn and slows you down.
 ### The 50000000 Other Types Of Snow
+
+[`Top`](#conditions)  
+[`Return`](./README.md#floridian-guide-to-skiing)

@@ -41,3 +41,6 @@ Think natural half pikes with moguls.
 Wide open expanses of snow. Usually at the top of mountains and are mostly double black diamonds and extreme slopes.
 ### Terrain Parks
 Half pikes, jumps, metal bars to slide on, etc.
+
+[`Top`](#slopes)  
+[`Return`](./README.md#floridian-guide-to-skiing)

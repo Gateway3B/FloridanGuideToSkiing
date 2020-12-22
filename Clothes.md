@@ -41,3 +41,6 @@ ___Earbud(Only One) -> Face Mask/Balaclava -> Tall Turtle Neck -> Helmet -> Gogg
 | --- |
 | <img src="./Images/HeadSetup.png" alt="HeadSetup" width="200"/> |
 * Turtle neck should go over face mask and back of head.
+
+[`Top`](#clothes)  
+[`Return`](./README.md#floridian-guide-to-skiing)

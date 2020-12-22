@@ -30,3 +30,6 @@
 ### French Fries
 * Keep your skis parallel and turn until you are a bit past horizontal to the slope.
 * This will slow your until you come to a stop.
+
+[`Top`](#beginner)  
+[`Return`](./README.md#floridian-guide-to-skiing)

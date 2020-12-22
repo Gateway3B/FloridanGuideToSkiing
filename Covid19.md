@@ -9,5 +9,6 @@ There are several precautions you should take to help slow the spread of the Sar
 4. If available, download the Covid tracker app for the state you are skiing in. It is 100% anonymous and will alert you and, if you choose, the state, if you have recently been near someone who has tested positive for Sars-Cov-2.
    * Here is a great article explaining how the trackers work and how they are 100% anonymous. [`Contact Tracing`](https://ncase.me/contact-tracing/)
 5. Physically distance with other skiers as much as possible.
-![Masks](./Images/Masks.jpg)
-[`Image Source`](https://www.nm.org/-/media/northwestern/resources/care-areas/infectious-disease/how-to-wear-face-mask.pdf)
+[![Masks](./Images/Masks.jpg)](https://www.nm.org/-/media/northwestern/resources/care-areas/infectious-disease/how-to-wear-face-mask.pdf)  
+[`Top`](#covid-19)  
+[`Return`](./README.md#floridian-guide-to-skiing)

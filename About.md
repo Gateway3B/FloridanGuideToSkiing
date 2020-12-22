@@ -5,3 +5,5 @@
 * I have skied at Heavenly, Whistler, Breckenridge, Vail, Park City, Keystone, and Beaver Creek.
 * I have almost 2 million verts(vertical feet) since 2012.
 ![Stats](./images/Stats.jpg)
+[`Top`](#about)  
+[`Return`](./README.md#floridian-guide-to-skiing)

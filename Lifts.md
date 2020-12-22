@@ -16,3 +16,6 @@
 * They are the slowest lifts by far.
 * Short T-Bars are used mainly in beginner zones where they move you up a small distance to practice skiing.
 * Long T-Bars are used at the top of mountains, usually to access double black diamond bowls. This is because it is hard to build lifts that high up on the mountain and T-Bars are smaller and more resilient.
+
+[`Top`](#lifts)  
+[`Return`](./README.md#floridian-guide-to-skiing)

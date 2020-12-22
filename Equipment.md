@@ -52,3 +52,6 @@
 | Strap | Grasp |
 | --- | --- |
 | <img src="./Images/Strap.png" alt="Strap" width="600"/> | <img src="./Images/Grasp.png" alt="Grasp" width="600"/> |
+
+[`Top`](#equipment)  
+[`Return`](./README.md#floridian-guide-to-skiing)
