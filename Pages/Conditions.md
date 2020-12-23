@@ -18,13 +18,17 @@
 
 ## Misc.
 ### Snow Guns
-Snow can be added to slopes that don't have enough for skiing by blasting them with snow guns. The guns blast out pressurized water and air, causing the water to turn to snow when it hits the cold environment.
+* Snow can be added to slopes that don't have enough for skiing by blasting them with snow guns.
+* The guns blast out pressurized water and air, causing the water to turn to snow when it hits the cold environment.
+
 | Snow Guns |
 | --- |
 | <img src="../Images/SnowGuns.png" alt="SnowGuns" width="600"/> |
 
 ### Snow Cat Groomers
-At night, snow cat groomers traverse slopes, turning packed or icy snow into powder, and leaving behind nice rake lines. A list of recently groomed slopes should be available.
+* At night, snow cat groomers traverse slopes, turning packed or icy snow into powder, and leaving behind nice rake lines.
+* A list of recently groomed slopes should be available.
+
 | Snow Cat Groomer |
 | --- |
 | <img src="../Images/SnowCatGroomer.png" alt="SnowCatGroomer" width="600"/> |

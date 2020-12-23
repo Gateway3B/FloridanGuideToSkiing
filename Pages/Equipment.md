@@ -32,13 +32,14 @@
 | <img src="../Images/Unclasp.png" alt="Unclasp" width="600"/> |
 
 ## Boots
-1. Boots should be very snug and tight.
-2. There should be little wiggle room from side to side.
+* Boots should be very snug and tight.
+* There should be little wiggle room from side to side.
     * The more wiggle room there is the less control you will have over your skis.
-3. Make them as tight as possible.
+* Make them as tight as possible.
 
 ## Poles
-1. Hold the pole upside down and under the snow basket. With the handle touching the ground, your forearm should be level.
+1. Hold the pole upside down and under the snow basket. 
+2. With the handle touching the ground, your forearm should be level.
 
 | Hold Pole |
 | --- |

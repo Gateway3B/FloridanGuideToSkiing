@@ -3,7 +3,7 @@ This is my personal gear, setup, and knowledge you can use for bootstrapping.
 ## Gear
 * [`Clothes`](./Pages/Clothes.md)  
 * [`Equipment`](./Pages/Equipment.md)
-## Terrain
+## Mountain
 * [`Slopes`](./Pages/Slopes.md)  
 * [`Conditions`](./Pages/Conditions.md)  
 * [`Lifts`](./Pages/Lifts.md)
