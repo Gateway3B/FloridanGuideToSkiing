@@ -1,15 +1,15 @@
 # Floridian Guide To Skiing
 This is my personal gear, setup, and knowledge you can use for bootstrapping.
 ## Gear
-* [`Clothes`](./Clothes.md)  
-* [`Equipment`](./Equipment.md)
+* [`Clothes`](./Pages/Clothes.md)  
+* [`Equipment`](./Pages/Equipment.md)
 ## Terrain
-* [`Slopes`](./Slopes.md)  
-* [`Conditions`](./Conditions.md)  
-* [`Lifts`](./Lifts.md)
+* [`Slopes`](./Pages/Slopes.md)  
+* [`Conditions`](./Pages/Conditions.md)  
+* [`Lifts`](./Pages/Lifts.md)
 ## Techniques
-* [`Beginner`](./Beginner.md)  
-* [`Advanced`](./Advanced.md)
+* [`Beginner`](./Pages/Beginner.md)  
+* [`Advanced`](./Pages/Advanced.md)
 ## Misc
-* [`Covid-19`](./Covid19.md)
-* [`About`](./About.md)
+* [`Covid-19`](./Pages/Covid19.md)
+* [`About`](./Pages/About.md)
