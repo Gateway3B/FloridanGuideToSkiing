@@ -13,3 +13,5 @@ This is my personal gear, setup, and knowledge you can use for bootstrapping.
 ## Misc
 * [`Covid-19`](./Pages/Covid19.md)
 * [`About`](./Pages/About.md)
+
+Checkout my skiing video: https://youtu.be/ddDCVNgPCGg
